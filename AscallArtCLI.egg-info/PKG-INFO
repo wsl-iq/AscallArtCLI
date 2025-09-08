@@ -1,3 +1,26 @@
+Metadata-Version: 2.4
+Name: AscallArtCLI
+Version: 1.1.1
+Summary: Short description here
+Home-page: https://pypi.org/project/AscallArtCLI/
+Author: Mohammed Al-Baqer
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: License
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
+
 ### **AscallArtCLI**
 
 ---
