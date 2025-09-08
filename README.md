@@ -255,6 +255,8 @@ from AscallArtCLI.BackGround import(Red, Green, Blue, Black, Yellow, Cyan, Orang
 ### **BackGround**
 ### **Code**
 ```Python
+from AscallArtCLI.BackGround import(Red, Green, Blue, Black, Yellow, Cyan, Orange, Pink, Magenta, White, Reset)
+
 print(f"{Red} B {Green} a {Blue} c {Yellow} k {Cyan} G {White} r {Magenta} o {Orange} u {Pink} n {Red} d {Reset}\n")
 print(Red + " Red    " + Reset)
 print(Green + " Green  " + Reset)
@@ -274,6 +276,8 @@ print(Pink + " Pink   " + Reset)
 ### **Colors**
 ### **Code**
 ```Python
+from AscallArtCLI.Colors import(R, G, B, Y, D, C, P, O, W, M, S)
+
 print(f"{R} C {G} o {B} l {Y} o {M} r {P} s\n")
 print(R + " Red    " + R)
 print(G + " Green  " + R)
@@ -388,5 +392,11 @@ print(Confirm + " AscallArtCLI")
 
 **[My WebSite](https://wsl-iq.github.io/)**
 
+---
+
+- **Downloads Packages PyPI** [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](https://pypi.org/project/AscallArtCLI/)
+
+- **Download Packages PyPI** [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/wsl-iq/AscallArtCLI.git)
 
 
+---
