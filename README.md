@@ -268,7 +268,7 @@ print(Pink + " Pink   " + Reset)
 ```
 
 ### **review**
-![BackGround](images\BackGround.png)
+![BackGround](images/BackGround.png)
 
 ---
 ### **Colors**
@@ -287,7 +287,7 @@ print(P + " Pink   " + R)
 ```
 
 ### **review**
-![Colors](images\Colors.png)
+![Colors](images/Colors.png)
 
 ---
 
@@ -375,7 +375,7 @@ print(Press + " AscallArtCLI")
 print(Confirm + " AscallArtCLI")
 ```
 ### **review**
-![Tags](images\Tags.png)
+![Tags](images/Tags.png)
 
 ---
 
@@ -387,5 +387,6 @@ print(Confirm + " AscallArtCLI")
 ### **My WebSite**
 
 **[My WebSite](https://wsl-iq.github.io/)**
+
 
 
