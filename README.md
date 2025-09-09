@@ -61,16 +61,16 @@ $ pip install AscallArtCLI
 
 ---
 
-### **Linux OR Mac**
+### **Linux**
 
-```
-$ pip install AscallArtCLI --break-system-packages
+```bach
+$ sudo pip install AscallArtCLI --break-system-packages
 ```
 
 ### **OR**
 
-```
-pip install -r requirements.txt --break-system-packages
+```bach
+$ sudo pip install -r requirements.txt --break-system-packages
 ```
 
 ### **OR**
@@ -400,3 +400,4 @@ print(Confirm + " AscallArtCLI")
 
 
 ---
+
